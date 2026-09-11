@@ -41,6 +41,17 @@ By using a deep learning model with proper scaling and evaluation metrics, this 
 
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+## 🏗️ Neural Network Architecture
+The PyTorch model consists of a 3-layer Dense Neural Network with regularization:
+- **Input Layer:** 30 continuous features
+- **Hidden Layer 1:** 64 units + Batch Normalization + ReLU + Dropout (0.3)
+- **Hidden Layer 2:** 32 units + Batch Normalization + ReLU + Dropout (0.2)
+- **Output Layer:** 1 unit (Linear logit for `BCEWithLogitsLoss`)
+
+
+
 
 
 
