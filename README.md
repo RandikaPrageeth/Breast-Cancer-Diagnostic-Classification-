@@ -52,6 +52,15 @@ The PyTorch model consists of a 3-layer Dense Neural Network with regularization
 
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+## 📊 Key Results
+- **Optimization:** Adam Optimizer ($lr=0.001$) with L2 weight decay
+- **Loss Function:** Binary Cross-Entropy with Logits
+- **Evaluation:** Evaluated using Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and ROC-AUC curve.
+
+
+
 
 
 
