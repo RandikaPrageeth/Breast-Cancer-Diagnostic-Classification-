@@ -32,6 +32,15 @@ By using a deep learning model with proper scaling and evaluation metrics, this 
 
 
 
+----------------------------------------------------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+- **Framework:** PyTorch (`torch.nn`, `DataLoader`, `TensorDataset`)
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning Utilities:** Scikit-Learn (StandardScaler, metrics, train_test_split)
+
+
+
 
 
 
