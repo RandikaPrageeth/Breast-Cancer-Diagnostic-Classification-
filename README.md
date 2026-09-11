@@ -1,5 +1,5 @@
 # Breast-Cancer-Diagnostic-Classification-
- ## Project Title
+ ## 📌 Project Title
 
  
 Breast Cancer Classifier
@@ -7,7 +7,7 @@ Breast Cancer Classifier
 ---------------------------------------------------------------------------------------------------------
 
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 Binary classification of cell nuclei features to predict whether a mass is malignant or benign.
 
